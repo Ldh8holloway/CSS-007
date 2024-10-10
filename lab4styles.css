@@ -11,3 +11,23 @@ color: red;
 .highlight{
     color: green;
 }
+
+.main-content{
+    background-color: yellow;
+}
+
+#id1{
+    text-align: center;
+}
+
+.heading{
+    text-decoration: underline dashed;  
+}
+
+.bold-text{
+    font-weight: bold;
+}
+
+#intro{
+    font-weight: 300;
+}
