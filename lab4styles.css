@@ -20,6 +20,10 @@ color: red;
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+}
+
 .heading{
     text-decoration: underline dashed;  
 }
@@ -30,4 +34,20 @@ color: red;
 
 #intro{
     font-weight: 300;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.custom-font {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.capitalize-text{
+    text-transform: capitalize;
 }
